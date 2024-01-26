@@ -1,5 +1,5 @@
 
-# Music Bot RTX GAMINGG
+# Music Bot by notasifofficial
 
 ## Overview
 
