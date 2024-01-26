@@ -1,17 +1,5 @@
 /*
-
-  ██████╗░████████╗██╗░░██╗           
-  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
-  ██████╔╝░░░██║░░░░╚███╔╝░          
-  ██╔══██╗░░░██║░░░░██╔██╗░          
-  ██║░░██║░░░██║░░░██╔╝╚██╗          
-  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-   
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
-   ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+Made by notasifofficial
 */
 const { ApplicationCommandOptionType, EmbedBuilder } = require('discord.js');
 const db = require("../mongoDB");
@@ -62,7 +50,7 @@ try {
     .setAuthor({
       name: 'Song Skipped',
       iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157269773118357604/giphy.gif?ex=6517fef6&is=6516ad76&hm=f106480f7d017a07f75d543cf545bbea01e9cf53ebd42020bd3b90a14004398e&',
-      url: 'https://discord.gg/FUEHs7RCqz'
+      url: 'https://discord.gg/uHCVTQkSwN'
     })
     .setDescription(success ? ` **SKIPPED** : **${old.name}**` : '❌ Queue is empty!')
     .setTimestamp();
@@ -79,17 +67,5 @@ try {
   },
 };
 /*
-
-  ██████╗░████████╗██╗░░██╗           
-  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
-  ██████╔╝░░░██║░░░░╚███╔╝░          
-  ██╔══██╗░░░██║░░░░██╔██╗░          
-  ██║░░██║░░░██║░░░██╔╝╚██╗          
-  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-
-   
-   # MADE BY RTX!! FEEL FREE TO USE ANY PART OF CODE
-   ## FOR HELP CONTACT ME ON DISCORD
-   ## Contact    [ DISCORD SERVER :  https://discord.gg/FUEHs7RCqz ]
-   ## YT : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+Made by notasifofficial
 */
