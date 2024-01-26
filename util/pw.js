@@ -1,6 +1,6 @@
 const status = "AUTOMATIC";
-const botName = "🎸 PNX_MUSIC_1 ";
-const rtxText = "Hasai Sasaki";
+const botName = "🎸 Music Bot ";
+const rtxText = "RTX";
 const version = "Latest@ v3.5"; 
 const startTime = Date.now();
 
